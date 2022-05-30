@@ -1,0 +1,12 @@
+<strong> </strong>(강조, 글씨 굵어짐)
+<u> </u> (밑줄)
+<h1> ~ <h6> </h1> ~ </h6>(글자 크기 조절, 숫자 작을 수록 크다.)
+<p> </p> (줄바꿈 간격 정해짐. 태그 간격만큼이 단락이다라는 걸 의미)
+<br><br><br><br>(원하는 만큼 간격 설정 가능. 원하는 단락, 그냥 줄바꿈)
+<img src="coding.jpg" width="100%"> (위치 상관없음)
+속성 attribute
+<li></li> 
+<ul></ul> unordered list
+<ol></ol>숫자  자동 넘버링 ordered list
+<title> </title> (웹페이지의 제목)
+<a> </a> 링크 href 하이퍼텍스트 레퍼런스
